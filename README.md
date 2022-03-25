@@ -21,5 +21,5 @@
  ## build flow
  1. Study algorithms
  2. Write C++ code and verify on HLS
- 3. Use Vivado for block design
- 4. run on pynq
+ 3. Use vivado for block design
+ 4. Run on pynq
